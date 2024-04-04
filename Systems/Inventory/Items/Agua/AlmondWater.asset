@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f21633302239e64cb3423b77001babf, type: 3}
+  m_Name: AlmondWater
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 99
+  <Name>k__BackingField: Almond Water
+  <Description>k__BackingField: Restores the sanaty.
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: eaf7aceea8ded9b468560973f0a2bdd8,
+    type: 3}
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: b4fdbc946cc6e00419b538180c61407a, type: 2}
+    value: 20
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: e88840227b168144cbdac6de8616b1e0,
+    type: 3}
