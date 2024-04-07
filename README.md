@@ -13,7 +13,7 @@ a game based in the Backrooms, that does not mean that the scripts/systems
 present in the game files can only be used to a game based on the backrooms so
 i encourage you to read the list of contenct present in the game files.
 
-[![Game Video ](https://img.youtube.com/vi/kABX1e6MA1g/0.jpg)](https://www.youtube.com/watch?v=kABX1e6MA1g)
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg](https://i.gjcdn.net/public-data/games/12/175/802175/screenshots/inthebackrooms-screenshot-2023-04-19---18-14-54-33-wvbkxet9.png)" width="100%">](https://www.youtube.com/watch?v=kABX1e6MA1g)
 
 # SETUP
 
