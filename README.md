@@ -15,6 +15,32 @@ i encourage you to read the list of contenct present in the game files.
 
 [<img src="https://i.gjcdn.net/public-data/games/12/175/802175/screenshots/inthebackrooms-screenshot-2023-04-19---18-14-54-33-wvbkxet9.png" width="100%">](https://www.youtube.com/watch?v=kABX1e6MA1g)
 
+# Content present in the game files:
+
+* First Person Controller (Stamina System, Leaning System, HeadBob System, Crouching & Jumping, Sound Effects)
+
+* Sanaty System
+
+* Inventory System
+
+* Flashlight System
+
+* Death System
+
+* Finish Level System
+
+* Interaction System
+
+* Entitys (Bacteria & Smiler (Spawner System, AI System, Jumpscares))
+
+* UI (All Menus & overlays)
+
+* Sounds (Entitys sounds, ambience sounds, random sounds (Inventory sound, use item sound, ...))
+
+* Misc (Interactable posters/notes,  time counter (Overlay),  flickering lights, vending machine, audio recorders, decals, all materials, ambience (Sound triggers, random sounds player))
+
+* Scenes (Map of the Level 0,  menu of the game, showcase scene (Scene to show main systems))
+
 # SETUP
 
 You will have three scenes that will be in the folder called Scenes, go to the
