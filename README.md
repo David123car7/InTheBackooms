@@ -2,7 +2,7 @@
 
 This game was made for the final project of my professional course (IT equipment management).
 
-The *game files* are available on *gumroad*: https://crzz.gumroad.com/l/vfrpr
+The **game files** are available on **gumroad**: https://crzz.gumroad.com/l/vfrpr
 
 [<img src="https://i.gjcdn.net/public-data/games/12/175/802175/screenshots/inthebackrooms-screenshot-2023-04-19---18-14-54-33-wvbkxet9.png" width="100%">](https://www.youtube.com/watch?v=kABX1e6MA1g)
 
