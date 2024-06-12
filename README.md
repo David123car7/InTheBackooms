@@ -136,6 +136,7 @@ after the release of the gameplay :).
 
 # Links
 
-Game: https://gamejolt.com/games/InTheBackrooms/802175
+Game Links: https://gamejolt.com/games/InTheBackrooms/802175 https://david123car7.itch.io/inthebackrooms
+Game Files: https://crzz.gumroad.com/l/vfrpr
 My Models: https://sketchfab.com/CrZZ
 Youtube: https://www.youtube.com/@CrZ3D
