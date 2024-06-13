@@ -4,6 +4,8 @@ This game was developed in the Unity game engine for the final project of my pro
 
 The **game files** are available on **gumroad**: https://crzz.gumroad.com/l/vfrpr
 
+Video of the gameplay: https://www.youtube.com/watch?v=kABX1e6MA1g
+
 [<img src="https://i.gjcdn.net/public-data/games/12/175/802175/screenshots/inthebackrooms-screenshot-2023-04-19---18-14-54-33-wvbkxet9.png" width="100%">](https://www.youtube.com/watch?v=kABX1e6MA1g)
 
 # Systems present in the game:
