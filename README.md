@@ -1,6 +1,6 @@
 # InTheBackrooms
 
-This game was made for the final project of my professional course (IT equipment management).
+This game was devoped in the Unity game engine for the final project of my professional course (IT equipment management).
 
 The **game files** are available on **gumroad**: https://crzz.gumroad.com/l/vfrpr
 
