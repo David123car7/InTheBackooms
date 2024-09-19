@@ -2,7 +2,7 @@
 
 This game was developed in the Unity game engine for the final project of my professional course (IT equipment management).
 
-The **game files** are available on **gumroad**: https://crzz.gumroad.com/l/vfrpr
+The **game files** are available on [Gumroad](https://crzz.gumroad.com/l/vfrpr) & [Booth](https://booth.pm/en/items/5839396)
 
 Video of the gameplay: https://www.youtube.com/watch?v=kABX1e6MA1g
 
