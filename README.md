@@ -1,6 +1,6 @@
 # InTheBackrooms
 
-**InTheBackrooms** is a 3D horror survival and exploration game developed as a final project for the *Curso Profissional de Técnico de Gestão de Equipamentos Informáticos* at Escola Secundária de Barcelos. The game immerses the player in a procedurally designed maze inspired by the "Backrooms" creepypasta, filled with atmospheric tension, hostile entities, and resource management.
+**InTheBackrooms** is a 3D horror survival and exploration game devolped using the Unity Engine. The game immerses the player in a custom designed maze inspired by the "Backrooms" creepypasta, filled with atmospheric tension, hostile entities, and resource management.
 
 > **Academic Context**  
 > This game was developed as a final project for the *Professional Course in Computer Equipment Management Technician* (*Curso Profissional de Técnico de Gestão de Equipamentos Informáticos*) at Escola Secundária de Barcelos.
